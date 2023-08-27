@@ -20,10 +20,10 @@ bld/
 [Ll]og/
 
 # Native libuiohook binaries
-*.dll
-*.so
-*.so.*
-*.dylib
+# *.dll
+# *.so
+# *.so.*
+# *.dylib
 
 # Visual Studio and Visual Studio Code cache/options directory
 .vs/
